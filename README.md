@@ -6,7 +6,7 @@ Welcome to Mind Twister, a fun and challenging puzzle game designed to test your
 
 * Leaderboard to keep track of all scores.
 * 20 levels with each level containing a set of questions with clues to guess the answer.
-* The player moves to the next level by correctly anwering the question of the previous level. 
+* The player moves to the next level by correctly answering the question of the previous level. 
 
 ## Technologies Used
 
